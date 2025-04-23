@@ -18,10 +18,7 @@ A modern Flutter application for browsing and shopping sneakers. This app demons
 - Dart
 - Provider (State Management)
 - Material Design
-
-## Screenshots 📱
-
-[Add screenshots of your app here]
+]
 
 ## Getting Started 🎯
 
