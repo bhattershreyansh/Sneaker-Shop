@@ -43,19 +43,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
-// ProductDetailsPage(
-//          product: products[0],
-//        ),
-
-
- //?Theme.of(context).colorScheme.primary
-                            //: const Color.fromRGBO(245, 247, 249, 1),
-
-
-                           // colorSchemeSeed: const Color.fromRGBO(254, 206, 1, 1),
-          //primaryColor: const Color.fromRGBO(254, 206, 254, 1),
-
-      //     ProductDetailsPage(
-      //   product: products[0],
-      // ),
